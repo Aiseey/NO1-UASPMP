@@ -87,7 +87,7 @@ class HomeState extends State<Home> {
         );
       },
     );
-  }
+  } 
 
   //buat contact
   void addContact(Contact object) async {
